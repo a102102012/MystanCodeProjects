@@ -7,7 +7,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 *[Hangman Game](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/hangman_game/hangman_ext.py)
-  * python semantics & syntax
+ * python semantics & syntax
 *[MyPhotoshop](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/my_photoshop/best_photoshop_award.py)
  * image processing
 *[Pedestrian Removing Application](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)

@@ -12,9 +12,9 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * image processing
 * [Pedestrian Removing Application](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
   * image processing
-*[Breakout Game](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/breakout.py)
+* [Breakout Game](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/breakout.py)
   * animation & game designing
-*[Name Popularity Searching System](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
+* [Name Popularity Searching System](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
   * data structure
-*[Boggle Game Solver](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/anagram.py)
+* [Boggle Game Solver](https://github.com/a102102012/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/anagram.py)
   * recursive functions
